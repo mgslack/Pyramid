@@ -9,6 +9,18 @@ using System.Diagnostics;
 using Checkers;
 using GameStatistics;
 
+/*
+ * Partial class defining the Pyramid game main window.  This game of Pyramid is based on a game
+ * idea created by Clinton Pasfield, March 1994 and published in the Delphi SWAG archive.
+ * 
+ * Author: Michael Slack
+ * Date Written: 2021-11-20
+ * 
+ * ----------------------------------------------------------------------------
+ * 
+ * Revised: yyyy-mm-dd - xxxx.
+ * 
+ */
 namespace Pyramid
 {
     public partial class MainWin : Form
